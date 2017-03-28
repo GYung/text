@@ -6,5 +6,4 @@
  * Time: 23:00
  */
 
-echo "hello";//sdasdasdada
-echo "da";
+echo "hello";//你好！
